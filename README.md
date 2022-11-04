@@ -30,7 +30,9 @@ The followning features and improvements are planned:
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Author
-Christian Casper Hofma
+Phillip Friis Petersen,
+Christian Casper Hofma,
+Peter Hansen
 
 ## Project status
 Work in progress
